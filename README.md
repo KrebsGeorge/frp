@@ -7,4 +7,5 @@
 frps.toml
 
 bindPort = 7000
+
 auth.token = "123456"
